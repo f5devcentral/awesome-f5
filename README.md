@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://img.shields.io/badge/-awesome-red?style=flat&logo=f5&label=~+of" alt="awesome-f5"/>
-<img src="https://img.shields.io/github/contributors/f5devcentral/awesome-f5" alt="Contributors"/>
-<img src="https://img.shields.io/github/stars/f5devcentral/awesome-f5?color=red" alt="Stars"/>
+<a href="https://github.com/f5devcentral/awesome-f5"><img src="https://img.shields.io/badge/-awesome-red?style=flat&logo=f5&label=~+of" alt="awesome-f5"/></a>
+<a href="https://github.com/f5devcentral/awesome-f5/activity"><img src="https://img.shields.io/github/contributors/f5devcentral/awesome-f5" alt="Contributors"/></a>
+<a href="https://github.com/f5devcentral/awesome-f5/stargazers"><img src="https://img.shields.io/github/stars/f5devcentral/awesome-f5?color=red" alt="Stars"/></a>
 </br>
-<em>An [awesome](awesome.md) list of tools that will help you with your F5 products</em>
+<em>An <a href="awesome.md">awesome</a> list of tools that will help you with your F5 products</em>
 </p>
 
 ---
