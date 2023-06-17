@@ -10,7 +10,6 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Ansible](#ansible)
 - [Automation Toolchain](#automation-toolchain)
 - [DevOps / CICD](#devops--cicd)
