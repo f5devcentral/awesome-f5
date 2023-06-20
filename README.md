@@ -57,6 +57,8 @@ Help make this list more awesome and [contribute](contributing.md)!
 ## Ops tools
 
 - [f5-demo-httpd](https://github.com/f5devcentral/f5-demo-httpd) - Simple NGINX Demo App in a Container useful for testing
+- [httpbin](https://github.com/simonkowallik/httpbin) - Ever heard of httpbin.org? This is a containerized and improved version of httpbin with added features running on nginx, unit, httpd or gunicorn!
+- [f5-demo-radius](https://github.com/simonkowallik/docker/tree/master/f5-demo-radius) - Need to test authentication against Radius but don't want to setup freeRADIUS? This is a pre-configured container ready to authenticate your BIG-IP Admins! 
 
 ## Video
 
