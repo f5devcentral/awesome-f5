@@ -8,6 +8,8 @@
 
 ---
 
+Help make this list more awesome and [contribute](contributing.md)!
+
 ## Contents
 
 - [Ansible](#ansible)
