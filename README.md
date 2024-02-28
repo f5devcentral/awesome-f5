@@ -12,6 +12,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 
 ## Contents
 
+- [Contents](#contents)
 - [Ansible](#ansible)
 - [Automation Toolchain](#automation-toolchain)
 - [DevOps / CICD](#devops--cicd)
@@ -58,7 +59,8 @@ Help make this list more awesome and [contribute](contributing.md)!
 
 - [f5-demo-httpd](https://github.com/f5devcentral/f5-demo-httpd) - Simple NGINX Demo App in a Container useful for testing
 - [httpbin](https://github.com/simonkowallik/httpbin) - Ever heard of httpbin.org? This is a containerized and improved version of httpbin with added features running on nginx, unit, httpd or gunicorn!
-- [f5-demo-radius](https://github.com/simonkowallik/docker/tree/master/f5-demo-radius) - Need to test authentication against Radius but don't want to setup freeRADIUS? This is a pre-configured container ready to authenticate your BIG-IP Admins! 
+- [f5-demo-radius](https://github.com/simonkowallik/docker/tree/master/f5-demo-radius) - Need to test authentication against Radius but don't want to setup freeRADIUS? This is a pre-configured container ready to authenticate your BIG-IP Admins!
+- [tacacs_server](https://github.com/f5-rahm/tacacs_server) - Need to test authentication against TACACS but don't want to setup it up yourself? This is a Docker image/container setup for testing tacacs+ with F5 BIG-IP.
 
 ## Video
 
