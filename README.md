@@ -12,6 +12,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 
 ## Contents
 
+- [Contents](#contents)
 - [Ansible](#ansible)
 - [Automation Toolchain](#automation-toolchain)
 - [DevOps / CICD](#devops--cicd)
@@ -33,6 +34,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 - [Manage Infrastructure and Services Lifecycle with Terraform and Ansible](https://community.f5.com/t5/technical-articles/manage-infrastructure-and-services-lifecycle-with-terraform-and/ta-p/291358) - Overview and demo putting all the pieces of infrastructure and configuration automation.
 - [JOURNEYS](https://github.com/f5devcentral/f5-journeys) - JOURNEYS is an application designed to assist F5 Customers with migrating a BIG-IP configuration to a new F5 device and enable new ways of migrating.
 - [F5 BIG-IP Automation Config Converter](https://github.com/f5devcentral/f5-automation-config-converter) - F5 BIG-IP Automation Config Converter (BIG-IP ACC) is an app written in Node.js that converts a BIG-IP configuration into an AS3 declaration, distributed as an easy-to-use docker image.
+- [tmconfjs](https://github.com/simonkowallik/tmconfjs) - Converts a BIG-IP configuration file (eg. bigip.conf) to JSON using the F5 BIG-IP Automation Config Converter parser. Written in javascript and available as a simple to use docker container image.
 
 ## DevOps / CICD
 
@@ -58,7 +60,8 @@ Help make this list more awesome and [contribute](contributing.md)!
 
 - [f5-demo-httpd](https://github.com/f5devcentral/f5-demo-httpd) - Simple NGINX Demo App in a Container useful for testing
 - [httpbin](https://github.com/simonkowallik/httpbin) - Ever heard of httpbin.org? This is a containerized and improved version of httpbin with added features running on nginx, unit, httpd or gunicorn!
-- [f5-demo-radius](https://github.com/simonkowallik/docker/tree/master/f5-demo-radius) - Need to test authentication against Radius but don't want to setup freeRADIUS? This is a pre-configured container ready to authenticate your BIG-IP Admins! 
+- [f5-demo-radius](https://github.com/simonkowallik/docker/tree/master/f5-demo-radius) - Need to test authentication against Radius but don't want to setup freeRADIUS? This is a pre-configured container ready to authenticate your BIG-IP Admins!
+- [tacacs_server](https://github.com/f5-rahm/tacacs_server) - Need to test authentication against TACACS but don't want to setup it up yourself? This is a Docker image/container setup for testing tacacs+ with F5 BIG-IP.
 
 ## Video
 
