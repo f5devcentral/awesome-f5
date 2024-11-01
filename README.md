@@ -28,6 +28,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 
 - [Tips and Tricks](https://community.f5.com/t5/technical-articles/f5-automation-with-ansible-tips-and-tricks/ta-p/290998) - This article links several videos that demonstrate step by step how to implement automation with Ansible.
 - [Manage Infrastructure and Services Lifecycle with Terraform and Ansible](https://community.f5.com/t5/technical-articles/manage-infrastructure-and-services-lifecycle-with-terraform-and/ta-p/291358) - Overview and demo putting all the pieces of infrastructure and configuration automation.
+- [f5-ps-ansible](https://github.com/f5devcentral/f5-ps-ansible) - Community ansible modules by F5 Professional Services
 
 ## Automation Toolchain
 
