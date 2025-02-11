@@ -42,6 +42,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 - [TesTcl](https://github.com/landro/TesTcl) - TesTcl is a Tcl library for unit testing iRules which are used when configuring F5 BIG-IP devices.
 - [irulescan](https://github.com/simonkowallik/irulescan) - Static security analyzer for iRules (and your CI/CD pipelines) also [available as a GitHub Action](https://github.com/marketplace/actions/irules-security-scan).
 - [tcl-smock](https://github.com/simonkowallik/tcl-smock) - A simple TCL mock implementation primarily designed for unit testing of F5 iApps and tmsh scripts.
+- [irule-validator](https://github.com/elkrammer/irule-validator) - A Go-based parser and validator for iRules.
 
 ## Distributed Cloud
 
