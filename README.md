@@ -29,6 +29,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 - [Tips and Tricks](https://community.f5.com/t5/technical-articles/f5-automation-with-ansible-tips-and-tricks/ta-p/290998) - This article links several videos that demonstrate step by step how to implement automation with Ansible.
 - [Manage Infrastructure and Services Lifecycle with Terraform and Ansible](https://community.f5.com/t5/technical-articles/manage-infrastructure-and-services-lifecycle-with-terraform-and/ta-p/291358) - Overview and demo putting all the pieces of infrastructure and configuration automation.
 - [f5-ps-ansible](https://github.com/f5devcentral/f5-ps-ansible) - Community ansible modules by F5 Professional Services
+- [f5auto-bigip-ve-bgp-ecmp-local](https://github.com/valbuenahector/f5auto-bigip-ve-bgp-ecmp-local) - Automates the deployment and configuration of scalable F5 BIG-IP VE instances in AWS using Terraform and Ansible.
 
 ## Automation Toolchain
 
@@ -57,6 +58,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 
 - [xc-app-services-tf](https://github.com/Mikej81/xc-app-services-tf) - Mike Coleman examples of deploying app services in F5 XC with Terraform
 - [Manage Infrastructure and Services Lifecycle with Terraform and Ansible](https://community.f5.com/t5/technical-articles/manage-infrastructure-and-services-lifecycle-with-terraform-and/ta-p/291358) - Overview and demo putting all the pieces of infrastructure and configuration automation.
+- [f5auto-bigip-ve-bgp-ecmp-local](https://github.com/valbuenahector/f5auto-bigip-ve-bgp-ecmp-local) - Automates the deployment and configuration of scalable F5 BIG-IP VE instances in AWS using Terraform and Ansible.
 
 ## Ops tools
 
