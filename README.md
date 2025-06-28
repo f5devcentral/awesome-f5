@@ -22,6 +22,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 - [Ops tools](#ops-tools)
 - [Video](#video)
 - [VS Code](#vs-code)
+- [Community Labs](#community-labs)
 - [Related](#related)
 
 ## Ansible
@@ -77,6 +78,10 @@ Help make this list more awesome and [contribute](contributing.md)!
 - [F5 Networks iRules](https://marketplace.visualstudio.com/items?itemName=bitwisecook.irule) - This extension supports syntax and intelliSense support for iRule events, commands and statements, up to BIG-IP v17.1.
 - [vscode-iApp](https://marketplace.visualstudio.com/items?itemName=bitwisecook.irule) [on GitHub](https://github.com/bitwisecook/vscode-iApp) - iApp extension for Visual Studio Code. This extension gives Tcl based iApp language support for Visual Studio Code including syntax and intelliSense support for iApp events, commands and statements.
 - [vscode-f5-fast](https://github.com/f5devcentral/vscode-f5-fast) - F5 vscode extension dedicated to F5 FAST template authoring and deployment.
+
+## Community Labs
+- [Autonomous Robot](/labs/autonomous_bot/README.md) - Connected robot project to test IoT / AI use cases
+- [AI Step-by-Step](https://github.com/f5devcentral/AI-stepbystep) - DevCentral team project to help uplevel AI skills
 
 ## Related
 
