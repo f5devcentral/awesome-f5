@@ -38,6 +38,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 - [JOURNEYS](https://github.com/f5devcentral/f5-journeys) - JOURNEYS is an application designed to assist F5 Customers with migrating a BIG-IP configuration to a new F5 device and enable new ways of migrating.
 - [F5 BIG-IP Automation Config Converter](https://github.com/f5devcentral/f5-automation-config-converter) - F5 BIG-IP Automation Config Converter (BIG-IP ACC) is an app written in Node.js that converts a BIG-IP configuration into an AS3 declaration, distributed as an easy-to-use docker image.
 - [tmconfjs](https://github.com/simonkowallik/tmconfjs) - Converts a BIG-IP configuration file (eg. bigip.conf) to JSON using the F5 BIG-IP Automation Config Converter parser. Written in javascript and available as a simple to use docker container image.
+- [Restsh](https://github.com/AxiansITSecurity/Restsh) - Restsh is a shell environment to work with F5 REST-API's on the command line. It is designed to be used interactively, in scripts or in CI/CD pipelines.
 
 ## DevOps / CICD
 
