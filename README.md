@@ -51,13 +51,13 @@ Help make this list more awesome and [contribute](contributing.md)!
 
 - [xc-app-services-tf](https://github.com/Mikej81/xc-app-services-tf) - Mike Coleman examples of deploying app services in F5 XC with Terraform
 - [Kubernetes architecture options with F5 XC](https://community.f5.com/t5/technical-articles/kubernetes-architecture-options-with-f5-distributed-cloud/ta-p/306550) - This article explores four major architectures in ascending order of sophistication and advantages
-- [xc-central-dashboard][https://github.com/jg2235/f5xc-dashboard] - Centralized XC Dashboard for multiple namespaces for all relevant LB, Origin Pools, Certificates, WAF, API, Bot configurations and security graphs
+- [xc-central-dashboard](https://github.com/jg2235/f5xc-dashboard) - Centralized XC Dashboard for multiple namespaces for all relevant LB, Origin Pools, Certificates, WAF, API, Bot configurations and security graphs
 
 ## iHealth
 
 - [iHAC](https://github.com/simonkowallik/iHAC) - iHAC aims to be a simple and easy to use interface to a subset of features provided by F5 iHealth.
 - [bulkqkview](https://github.com/snowblind-/bulkqkview) - bulkqkview downloads qkviews from one or a fleet of devices and uploads to iHealth.
-- [iHealth-qkview-parser][https://github.com/jg2235/BIG-IP_iHealth_QKview_Parser] - Qkview parser to extrapolate BIG-IP Performance graphs into a excel format for to help with capacity and migration planning
+- [iHealth-qkview-parser](https://github.com/jg2235/BIG-IP_iHealth_QKview_Parser) - Qkview parser to extrapolate BIG-IP Performance graphs into a excel format for to help with capacity and migration planning
 
 ## Terraform
 
@@ -80,8 +80,7 @@ Help make this list more awesome and [contribute](contributing.md)!
 ## VS Code
 
 - [The F5 Extension](https://marketplace.visualstudio.com/items?itemName=F5DevCentral.vscode-f5) - This extension supercharges your abilities to work with the automation toolchain, iRules, and direct connects to BIG-IP devices.
-- [F5 Networks iRules](https://marketplace.visualstudio.com/items?itemName=bitwisecook.irule) - This extension supports syntax and intelliSense support for iRule events, commands and statements, up to BIG-IP v17.1.
-- [vscode-iApp](https://marketplace.visualstudio.com/items?itemName=bitwisecook.irule) [on GitHub](https://github.com/bitwisecook/vscode-iApp) - iApp extension for Visual Studio Code. This extension gives Tcl based iApp language support for Visual Studio Code including syntax and intelliSense support for iApp events, commands and statements.
+- [Tcl/Tk, iRules, iApps, EDA-Tools, Expect LSP/MCP, bigip*conf syntax](https://github.com/bitwisecook/tcl-lsp) [vscode extension](https://marketplace.visualstudio.com/items?itemName=bitwisecook.tcl-lsp) The smartest extension to support any iRule, iApp or bigip*conf work in VS Code or your LLM coding harness.
 - [vscode-f5-fast](https://github.com/f5devcentral/vscode-f5-fast) - F5 vscode extension dedicated to F5 FAST template authoring and deployment.
 
 ## Community Labs
