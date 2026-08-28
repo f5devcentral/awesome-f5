@@ -51,11 +51,13 @@ Help make this list more awesome and [contribute](contributing.md)!
 
 - [xc-app-services-tf](https://github.com/Mikej81/xc-app-services-tf) - Mike Coleman examples of deploying app services in F5 XC with Terraform
 - [Kubernetes architecture options with F5 XC](https://community.f5.com/t5/technical-articles/kubernetes-architecture-options-with-f5-distributed-cloud/ta-p/306550) - This article explores four major architectures in ascending order of sophistication and advantages
+- [xc-central-dashboard][https://github.com/jg2235/f5xc-dashboard] - Centralized XC Dashboard for multiple namespaces for all relevant LB, Origin Pools, Certificates, WAF, API, Bot configurations and security graphs
 
 ## iHealth
 
 - [iHAC](https://github.com/simonkowallik/iHAC) - iHAC aims to be a simple and easy to use interface to a subset of features provided by F5 iHealth.
 - [bulkqkview](https://github.com/snowblind-/bulkqkview) - bulkqkview downloads qkviews from one or a fleet of devices and uploads to iHealth.
+- [iHealth-qkview-parser][https://github.com/jg2235/BIG-IP_iHealth_QKview_Parser] - Qkview parser to extrapolate BIG-IP Performance graphs into a excel format for to help with capacity and migration planning
 
 ## Terraform
 
@@ -69,7 +71,8 @@ Help make this list more awesome and [contribute](contributing.md)!
 - [httpbin](https://github.com/simonkowallik/httpbin) - Ever heard of httpbin.org? This is a containerized and improved version of httpbin with added features running on nginx, unit, httpd or gunicorn!
 - [f5-demo-radius](https://github.com/simonkowallik/docker/tree/master/f5-demo-radius) - Need to test authentication against Radius but don't want to setup freeRADIUS? This is a pre-configured container ready to authenticate your BIG-IP Admins!
 - [tacacs_server](https://github.com/f5-rahm/tacacs_server) - Need to test authentication against TACACS but don't want to setup it up yourself? This is a Docker image/container setup for testing tacacs+ with F5 BIG-IP.
-
+* [tmos-upgrade-planner](https://github.com/jg2235/tmos-upgrade-planner) - A tool designed to assist with risk assessment for future BIG-IP TMOS versions utilizing BIG-IP qkview configurations for comparison against release notes.
+  
 ## Video
 
 - [Mark Dittmer's YouTube Channel](https://www.youtube.com/@MarkDittmer/videos) - Kubernetes Ingress and Automation of BIG-IP
